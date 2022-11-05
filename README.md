@@ -22,12 +22,14 @@ The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and op
 
 ---
 
-<br/>
-In this project I've created some functions to help plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format
+In this project I've created some functions to help plot global monthly climatologies of zonal and meridional geostrophic velocities such as this one: 
 <p align="center"><img src="vgos.gif"alt="full"  width="75%"></p>
 
+The sea-level anomaly derived from the absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum, such as the Brazil-Malvinas confluence identified below through a climatology of the full series on the South Atlantic ocean:
+<p align="center"><img src="sla_full_mean_SA.png"alt="full"  width="75%"></p>
 
-There is also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection. Even before the identification of planetary waves by FIR-2D filtering, the monthly climatology of meridional geostrophic velocities already betrays their existence as chains of crests and throughs (e.g. around 5ºN):
+
+There are also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection. Even before the identification of planetary waves by FIR-2D filtering, the monthly climatology of meridional geostrophic velocities already betrays their existence as chains of crests and throughs (e.g. around 5ºN):
 
 <p align = "center">
 <img src="vgos_Jan_mean_ilhas.png" alt="ilhas3" width="75%">

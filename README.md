@@ -6,6 +6,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
 
+<img src="cmems.jpg" align="right" width="25%"/>
 - Python 3.8.13
 	- Numpy 1.20.3
 	- Seaborn 0.11.2
@@ -15,7 +16,7 @@
 	- Cartopy 0.21.0
 	- Cmocean 2.0
 
-<img src="cmems.jpg" align="right" width="25%"/>
+
 The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and operated by Mercator Ocean, provides oceanographic products and services for maritime safety, coastal and marine environment, climate and weather forecasting and marine resources users.
 
 ---

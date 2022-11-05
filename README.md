@@ -15,7 +15,7 @@
 	- Cartopy 0.21.0
 	- Cmocean 2.0
 
-<img src="cmems.jpg" align="right" width="50%"/>
+<img src="cmems.jpg" align="right" width="25%"/>
 The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and operated by Mercator Ocean, provides oceanographic products and services for maritime safety, coastal and marine environment, climate and weather forecasting and marine resources users.
 
 <br/>

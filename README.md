@@ -18,6 +18,8 @@
 <img src="cmems.jpg" align="right" width="25%"/>
 The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and operated by Mercator Ocean, provides oceanographic products and services for maritime safety, coastal and marine environment, climate and weather forecasting and marine resources users.
 
+---
+
 <br/>
 In this project I've created some functions to help plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format
 <p align="center"><img src="vgos.gif"alt="full"  width="75%"></p>

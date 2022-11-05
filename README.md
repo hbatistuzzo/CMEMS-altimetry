@@ -15,29 +15,22 @@
 	- Cartopy 0.21.0
 	- Cmocean 2.0
 
-<img src="ECMWF.png" align="right" width="50%"/>
-ERA5 is the fifth generation ECMWF atmospheric reanalysis of the global climate covering the period from January 1950 to present. ERA5 is produced by the Copernicus Climate Change Service (C3S) at ECMWF.
+<img src="cmems.jpg" align="right" width="50%"/>
+The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and operated by Mercator Ocean, provides oceanographic products and services for maritime safety, coastal and marine environment, climate and weather forecasting and marine resources users.
 
 <br/>
-<br/>
-
-ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables. The data cover the Earth on a 30km grid and resolve the
-atmosphere using 137 levels from the surface up to a height of 80km. ERA5 includes information about uncertainties for all variables at reduced spatial and
-temporal resolutions.
-
-<br/>
-In this project I've created some functions to help plot zonal and meridional wind data. The code also performs some previous statistics on the dataset to allow 
-the plotting of mean +/- standard deviation contours, which are also applied in the colorbar.
-<p align="center"><img src="u10_full_mean.png"alt="full"  width="75%"></p>
+In this project I've created some functions to help plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format
+<p align="center"><img src="vgos.gif"alt="full"  width="75%"></p>
 
 
-There is also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection, as below:
+There is also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection. Even before the identification of planetary waves by FIR-2D filtering, the monthly climatology of meridional geostrophic velocities already betrays their existence as chains of crests and throughs (e.g. around 5ºN):
 
 <p align = "center">
-<img src="ilhas_full_u10n_mean2.png" alt="ilhas2" width="75%">
+<img src="vgos_Jan_mean_ilhas.png" alt="ilhas3" width="75%">
 </p>
+
 <p align = "center">
-The dot marks the location of the St. Peter & St. Paul archipelago
+The star marks the location of the St. Peter & St. Paul archipelago
 </p>
 
 <br/>

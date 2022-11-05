@@ -6,7 +6,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
 
-<img src="cmems.jpg" align="right" width="25%"/>
+<img src="images/cmems.jpg" align="right" width="25%"/>
 
 - Python 3.8.13
 	- Numpy 1.20.3
@@ -23,16 +23,16 @@ The Copernicus Marine Environment Monitoring Service (CMEMS), implemented and op
 ---
 
 In this project I've created some functions to help plot global monthly climatologies of zonal and meridional geostrophic velocities such as this one: 
-<p align="center"><img src="vgos.gif"alt="full"  width="75%"></p>
+<p align="center"><img src="images/vgos.gif"alt="full"  width="75%"></p>
 
 The sea-level anomaly derived from the absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum, such as the Brazil-Malvinas confluence identified below through a climatology of the full series on the South Atlantic ocean:
-<p align="center"><img src="sla_full_mean_SA.png"alt="full"  width="75%"></p>
+<p align="center"><img src="images/sla_full_mean_SA.png"alt="full"  width="75%"></p>
 
 
 There are also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection. Even before the identification of planetary waves by FIR-2D filtering, the monthly climatology of meridional geostrophic velocities already betrays their existence as chains of crests and throughs (e.g. around 5ºN):
 
 <p align = "center">
-<img src="vgos_Jan_mean_ilhas.png" alt="ilhas3" width="75%">
+<img src="images/vgos_Jan_mean_ilhas.png" alt="ilhas3" width="75%">
 </p>
 
 <p align = "center">
@@ -47,5 +47,5 @@ Finally, it also spits out Hovmoller diagrams for each of the latitudes of inter
 <br/>
 
 <p align = "center">
-<img src="2019_3S.png" alt="ilhas5" width="100%">
+<img src="images/2019_3S.png" alt="ilhas5" width="100%">
 </p>

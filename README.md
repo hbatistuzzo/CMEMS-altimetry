@@ -44,6 +44,11 @@ It uses dask to optimize the code run (as opening these many netcdf files in nes
 mean for the monthly climatology. Big kudos to those who created this awesome tool.
 <br/>
 Finally, it also spits out Hovmoller diagrams for each of the latitudes of interest, since they are useful for identifying meso and large-scale phenomena such as vortices and planetary (Rossby/Equatorial Kelvin) waves.
-<br/>
-I managed to do some neat animations with matplotlib and cartopy!
-<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-058b56cfa6.gif" width="100%" alt="cake"></p>
+
+<p align = "left">
+<img src="2019_3S.png" alt="ilhas3" width="75%">
+</p>
+
+<p align = "left">
+<img src="2019_3N.png" alt="ilhas3" width="75%">
+</p>

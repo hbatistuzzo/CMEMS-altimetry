@@ -49,3 +49,16 @@ Finally, it also spits out Hovmoller diagrams for each of the latitudes of inter
 <p align = "center">
 <img src="images/2019_3S.png" alt="ilhas5" width="100%">
 </p>
+
+## Physical background
+
+The austral ocean currently acumulates more heat and anthropogenic carbon than any other oceanic region (Speer, 2012). Due to the oceans's large heat capacity, the superficial circulation can influence climate variability primarily
+on interannual and decadal scales (Talley, 1999; Dewar et al., 2001; Pierce, 2001). Climate models suggest that the variability of mass, salt and heat transports are related to significative changes on precipitation patterns,
+hurricane intensification and global sea level rise (Goddard, 2015).
+
+On the South Atlantic, transports of mass, salt and heat are dictated by the Meridional Overturning Circulation, whose dynamics is still not fully understood. By redistributing heat between the ocean basins and the atmosphere,
+the MOC affects the global climate. Its variability is spread on different timescales (Eden, 2001; Kanzow, 2010). The Atlantic portion of the MOC (AMOC) is considered one of the main tipping elements of the Earth system
+(Lenton et al., 2008), since it's a highly nonlinear system driven by subtle changes in temperature and salinity (hence the name "Thermohaline circulation" describes the parcel of the MOC driven by density fluxes).
+Indeed, studies have suggested that the AMOC might have triggered rapid climate variation on the geological past. Therefore, on the context of climate change, it would be ideal to discriminate between the MOC's natural variability
+and the variability imposed by anthropogenic forcings. A number of studies have observed a recent decline of MOC (reviewed in Robson, 2012).
+

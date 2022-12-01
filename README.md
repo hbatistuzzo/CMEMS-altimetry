@@ -1,10 +1,11 @@
 # CMEMS_altimetry
  
-
 ![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/CMEMS_altimetry)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/CMEMS_altimetry)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
+
+Project status: In Progress
 
 <img src="images/cmems.jpg" align="right" width="25%"/>
 
